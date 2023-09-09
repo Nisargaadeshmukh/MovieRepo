@@ -1,18 +1,14 @@
-﻿using MAapp1.Model;
-using MAapp1.Services;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using MovieClassLibrary.Model;
 
 namespace MAapp1.Controller
 {
-    internal class Controller
+    internal class Controllers
     {
         private MovieManager movieManager;
 
-        public Controller(string filePath)
+        public Controllers(string filePath)
         {
             movieManager = new MovieManager(filePath);
         }
