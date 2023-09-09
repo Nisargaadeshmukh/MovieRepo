@@ -1,0 +1,11 @@
+D:\first\MAapp1\bin\Debug\MAapp1.exe.config
+D:\first\MAapp1\bin\Debug\MAapp1.exe
+D:\first\MAapp1\bin\Debug\MAapp1.pdb
+D:\first\MAapp1\obj\Debug\MAapp1.csproj.AssemblyReference.cache
+D:\first\MAapp1\obj\Debug\MAapp1.csproj.SuggestedBindingRedirects.cache
+D:\first\MAapp1\obj\Debug\MAapp1.csproj.CoreCompileInputs.cache
+D:\first\MAapp1\obj\Debug\MAapp1.exe
+D:\first\MAapp1\obj\Debug\MAapp1.pdb
+D:\first\MAapp1\bin\Debug\MovieClassLibrary.dll
+D:\first\MAapp1\bin\Debug\MovieClassLibrary.pdb
+D:\first\MAapp1\obj\Debug\MAapp1.csproj.CopyComplete
